@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![](http://mazassumnida.wtf/api/generate_badge?boj=d00h22)](https://solved.ac/d00h22)
