@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://github-readme-stats.vercel.app/api?username=gumsu&show_icons=true)
 
